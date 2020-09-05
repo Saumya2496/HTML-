@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-HomePage
+Friend List
 </title>
 </head>
 <body>
@@ -10,63 +10,55 @@ HomePage
 
 
 <h1 align= "center">FriendshipZone</h1>
+
 <article>
-<h2> A place to find like minded people...</h2>
-<h3>One of the most beautiful qualities of friendship is to understand and be understood</h3>
+<h2> Details of people... </h2>
 
-&nbsp &nbsp &nbsp A real friend is the one who walks in when rest of the world walks out.
-
-<hr>
-<nav>
-<ul type="disc">
-<li><a href="Friends.html"</a>Click to search friends</li>
-<li> Send mail for your registration <a href="">abc@xyz.com</a></li>
-</hr>
-</ul>
-</nav>
-<hr>
-<h4>Features of the friendship zone</h4>
-<h5> Friendship </h5>
-
-Being part of the friendship Zone site enables you to stay connected with your friends.
-
-
-<h6>Dating</h6>
-<nav>
-<b><h7> Follow us on </h7>
-<ul type="Disc">
-
-<li> <a href=" www.facebook.com" </a>Facebook </li>
-<li> <a href=" www.twitter.com" </a>Twitter </li>
-
-
-</ul>
-
-</nav>
-
-
-</hr>
+<table border= "2">
+<tr>
+<th colspan="2">Name: </th>
+<th colspan="7">About</th>
+<th colspan="3"> Send Request</th>
+<th colspan="5">Contact</th>
 
 
 
+</tr>
+<tr>
+<td rowspan="2" colspan="2">Mariya</td>
+<td rowspan="2" colspan="7">adventrous,likes to participate in bungee jumping</td>
+<td rowspan="2" colspan="4"><button>Friendship</button></td>
+<td colspan="5">555 77 855</td>
+</tr>
+<tr>
 
+<td colspan="6"><a href="">mariya@yourcompany.com</a></td>
+
+</tr>
+
+<tr>
+<td rowspan ="2" colspan="2">Adams</td>
+<td rowspan="2" colspan="7"> Likes music, reads book </td>
+<td colspan="4"><button>Friendship</button></td>
+
+<td colspan="6">555 77 744</td>
+
+</tr>
+
+<tr>
+
+<td colspan="4"><button>Dating</button></td>
+
+<td colspan="6"><a href="">adams@yourcompany.com</a></td>
+
+</tr>
+
+
+
+
+</table>
+
+<h1><a href="RegistrationForm.html">Register to get added in list.</a></h1>
 
 </article>
 
-
-
-
-<footer>
-
-All rights reserved.
-
-</footer>
-
-
-</body>
-
-
-
-
-
-</html>
